@@ -1,5 +1,5 @@
 <?php
-// 6. videoda kaldın
+
 class System
 {
     protected $controller;
